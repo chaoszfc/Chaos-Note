@@ -1,0 +1,24 @@
+{
+    "title": "前端开发NOTE",
+    "author": "Chaos",
+    "description": "前端开发note",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+        "website": ""
+    },
+    "structure": {
+    },
+    "links": {
+        "sidebar": {
+            "我的狗窝": "https://blankj.com"
+        }
+    },
+    "plugins": [
+        "-sharing"
+        
+    ],
+    "pluginsConfig": {
+        
+    }
+}
