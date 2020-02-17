@@ -120,6 +120,7 @@ var vm = new Vue({
 ```
 
 ```
+
 methods: {
   reversedMessage: function () {
     return this.message.split('').reverse().join('')
